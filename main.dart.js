@@ -82927,20 +82927,22 @@ wf(){var s=0,r=A.O(t.H),q,p=2,o=[],n=[],m=this,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 var $async$wf=A.P(function(a2,a3){if(a2===1){o.push(a3)
 s=p}while(true)switch(s){case 0:m.am(new A.ak5(m))
 p=4
-f=t.N
+f=A.hz(u.x)
+e=t.N
+d=A.an(["Content-Type","text/plain;charset=utf-8"],e,e)
 s=7
-return A.R(A.aDc(A.hz(u.x),B.bI.G1(A.an(["action","GET_FOODS"],f,f),null),null),$async$wf)
+return A.R(A.aDc(f,B.bI.G1(A.an(["action","GET_FOODS"],e,e),null),d),$async$wf)
 case 7:l=a3
-if(l.b===200){e=l
-k=B.bI.FA(0,A.aCR(A.aBS(e.e)).eT(0,e.w),null)
-j=A.v(f,t.b5)
-for(e=J.b2(k),d=t.z,c=t.H7;e.t();){i=e.gL(e)
+if(l.b===200){f=l
+k=B.bI.FA(0,A.aCR(A.aBS(f.e)).eT(0,f.w),null)
+j=A.v(e,t.b5)
+for(f=J.b2(k),d=t.z,c=t.H7;f.t();){i=f.gL(f)
 b=J.bm(i,"category")
 h=b==null?"\u0e17\u0e31\u0e48\u0e27\u0e44\u0e1b":b
 if(!J.qT(j,h))J.ef(j,h,A.c([],c))
 a=J.bm(j,h)
 a.toString
-a.push(A.auh(i,f,d))}m.am(new A.ak6(m,k,j))
+a.push(A.auh(i,e,d))}m.am(new A.ak6(m,k,j))
 A.kd().$1(B.i.k(J.cL(m.z)))
 A.kd().$1(B.i.k(m.as.length))}else A.kd().$1("\u0e44\u0e21\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e42\u0e2b\u0e25\u0e14\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e44\u0e14\u0e49 "+l.b)
 n.push(6)
@@ -83259,7 +83261,7 @@ x9(a,b,c,d,e){return this.adm(a,b,c,d,e)},
 adm(a,b,c,d,e){var s=0,r=A.O(t.Wd),q,p=this,o,n
 var $async$x9=A.P(function(f,g){if(f===1)return A.L(g,r)
 while(true)switch(s){case 0:o=A.aLl(a,b)
-if(c!=null)o.r.P(0,c)
+o.r.P(0,c)
 o.sagb(0,d)
 n=A
 s=3
