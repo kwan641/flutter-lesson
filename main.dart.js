@@ -26393,7 +26393,7 @@ var $async$ZG=A.P(function(c,d){if(c===1){o.push(d)
 s=p}while(true)switch(s){case 0:p=4
 l=A.hz(a)
 k=t.N
-j=A.an(["Content-Type","application/json"],k,k)
+j=A.an(["Content-Type","text/plain;charset=utf-8"],k,k)
 s=7
 return A.R(A.aDc(l,B.bI.G1(b,null),j),$async$ZG)
 case 7:n=d
