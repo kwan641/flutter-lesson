@@ -83102,7 +83102,7 @@ break
 case 6:case 1:return A.M(q,r)
 case 2:return A.L(o.at(-1),r)}})
 return A.N($async$wq,r)},
-N(a){var s,r,q,p,o,n,m=this,l=null,k=A.ds(l,80,l),j=A.hV(B.Ep,B.aY,l,120),i=A.dh("FOOD DELIVERY",l,l,l,l,A.dS(l,l,B.aY,l,l,l,l,l,l,l,l,28,l,l,B.bl,l,l,!0,l,l,l,l,l,l,l,l),l,l),h=A.ds(l,50,l),g=A.hV(B.Et,B.aY,l,l)
+N(a){var s,r,q,p,o,n,m=this,l=null,k=A.ds(l,80,l),j=A.hV(B.Ep,B.aY,l,120),i=A.dh("FOOD \u0e2a\u0e31\u0e48\u0e07\u0e2d\u0e32\u0e2b\u0e32\u0e23",l,l,l,l,A.dS(l,l,B.aY,l,l,l,l,l,l,l,l,28,l,l,B.bl,l,l,!0,l,l,l,l,l,l,l,l),l,l),h=A.ds(l,50,l),g=A.hV(B.Et,B.aY,l,l)
 g=A.aAg(m.d,A.au8(l,new A.fc(4,A.iq(15),B.i6),l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,new A.fc(4,A.iq(15),new A.bd(B.aY,2,B.v,-1)),l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,"Username",!0,!0,l,g,l,l,l,l,l,l,l,l,l,l,l,l))
 s=A.ds(l,20,l)
 r=A.hV(B.Es,B.aY,l,l)
