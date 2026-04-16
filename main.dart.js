@@ -86885,7 +86885,7 @@ r=A.cW(B.jY,B.k,p,p)
 return A.Bw(o,p,s,new A.KW(r,B.ao,new A.aq7(q),B.WL,p))},
 M6(a,b){var s,r,q,p,o=null,n="isBestSeller",m=A.er(10),l=A.er(8),k=a.length!==0?A.LD(B.fl.di(a),new A.apD(),B.iC,!0,1/0):A.cW(B.k_,o,o,o)
 l=A.e9(k,B.u,o,new A.d3(B.e9,o,o,l,o,o,B.av),60,new A.ag(8,8,0,8),o,60)
-k=A.bL(o,o,15)
+k=A.bL(o,o,10)
 s=this.c
 s.toString
 s=A.bK(s,o,t.w).w
@@ -86894,9 +86894,9 @@ q=r.i(b,"name")
 if(q==null)q=""
 p=t.p
 s=A.e9(A.hm(A.c([A.bE(q,o,o,o,o,A.cF(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.aI,o,o,!0,o,o,o,o,o,o,o,o),o,o),A.bE(A.m(r.i(b,"category"))+" * "+A.m(r.i(b,"price"))+" \u0e1a\u0e32\u0e17",o,o,o,o,A.cF(o,o,B.eM,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)],p),B.bA,B.a2,B.aD),B.u,o,o,o,new A.ag(0,0,10,0),o,s.a.a*0.25)
-q=A.bL(o,o,15)
+q=A.bL(o,o,10)
 r=J.d(r.i(b,n),!0)||J.d(r.i(b,n),"TRUE")?A.cW(B.oi,B.ao,o,20):A.cW(B.oi,B.B,o,20)
-return A.e9(A.k6(A.c([l,k,s,q,r,A.bL(o,o,15),A.l3(o,o,A.cW(B.Gj,B.eK,o,o),o,o,new A.apE(this,b),o,o,o),A.bL(o,o,15),A.l3(o,o,A.cW(B.Gh,B.dr,o,o),o,o,new A.apF(this,b),o,o,o)],p),B.aa,B.a2,B.aD,0),B.u,o,new A.d3(B.n3,o,o,m,o,o,B.av),o,new A.ag(20,12,20,12),o,o)}}
+return A.e9(A.k6(A.c([l,k,s,q,r,A.bL(o,o,10),A.l3(o,o,A.cW(B.Gj,B.eK,o,o),o,o,new A.apE(this,b),o,o,o),A.bL(o,o,10),A.l3(o,o,A.cW(B.Gh,B.dr,o,o),o,o,new A.apF(this,b),o,o,o)],p),B.aa,B.a2,B.aD,0),B.u,o,new A.d3(B.n3,o,o,m,o,o,B.av),o,new A.ag(20,12,20,12),o,o)}}
 A.apJ.prototype={
 $0(){this.a.e=!0},
 $S:0}
